@@ -1,0 +1,524 @@
+'weatherviz.exe' (Win32): Loaded 'C:\Users\suwu.REDMOND\Dev\Babylon\weatherviz\windows\x64\Debug\weatherviz\AppX\weatherviz.exe'. Symbols loaded.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\msvcp140d_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\vcruntime140d_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\vcruntime140_1d_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Users\suwu.REDMOND\Dev\Babylon\weatherviz\windows\x64\Debug\weatherviz\AppX\ucrtbased.dll'. 
+The thread 0x6e48 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Xaml.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\BCP47Langs.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dcomp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\twinapi.appcore.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryCore.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\WindowManagementAPI.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\CoreUIComponents.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\OneCoreUAPCommonProxyStub.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\urlmon.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dxgi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Users\suwu.REDMOND\Dev\Babylon\weatherviz\windows\x64\Debug\weatherviz\AppX\Microsoft.ReactNative.dll'. Symbols loaded.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\UIAutomationCore.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Chakra.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\icuuc.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\icuuc.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\icuin.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\icuin.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\icuuc.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\icuin.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\icu.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\wldp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Users\suwu.REDMOND\Dev\Babylon\weatherviz\windows\x64\Debug\weatherviz\AppX\BabylonReactNative.dll'. Symbols loaded.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\d3d11.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\D3D12.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\D3DCompiler_47.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\msvcp140d_codecvt_ids_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Users\suwu.REDMOND\Dev\Babylon\weatherviz\windows\x64\Debug\weatherviz\AppX\RNPermissions.dll'. Symbols loaded.
+onecore\windows\directx\database\helperlibrary\lib\directxdatabasehelper.cpp(383)\dxgi.dll!00007FF951C4A607: (caller: 00007FF951C4881E) ReturnHr(1) tid(5cc0) 80070005 Access is denied.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvdlistx.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\MrmCoreR.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igd10iumd64.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ncrypt.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\ntasn1.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.StateRepositoryClient.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igdgmm64.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_7c83d7d86ddaeb22\igc64.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\version.dll'
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvdlistx.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+The thread 0x7154 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\BCP47mrm.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\d2d1.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DWrite.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.3_2.32002.13001.0_x64__8wekyb3d8bbwe\Microsoft.UI.Xaml.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\vcruntime140_1_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\vcruntime140_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.Debug_14.0.29231.0_x64__8wekyb3d8bbwe\msvcp140_app.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\TextShaping.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Shell.ServiceHostBuilder.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\execmodelproxy.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\rmclient.dll'. 
+The thread 0x5cc0 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\UiaManager.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Core.TextInput.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Immersive.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DataExchange.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\cryptbase.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.ApplicationModel.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Graphics.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Storage.ApplicationData.dll'. 
+onecoreuap\base\appmodel\statemanager\winrt\lib\windows.storage.applicationdatafactory.server.cpp(235)\Windows.Storage.ApplicationData.dll!00007FF920A68433: (caller: 00007FF920A78B63) ReturnHr(1) tid(51fc) 8000000B The operation attempted to access data outside the valid range
+    Msg:[User S-1-5-21-2127521184-1604012920-1887927527-32857325] 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Globalization.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\FirewallAPI.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.HostName.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Networking.Connectivity.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\biwinrt.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dnsapi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\IPHLPAPI.DLL'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\nsi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\fwbase.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.UI.Xaml.Controls.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\mswsock.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\directmanipulation.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\wininet.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\sspicli.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\OnDemandConnRouteHelper.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\winhttp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\PeerDist.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\winnsi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Users\suwu.REDMOND\Dev\Babylon\weatherviz\windows\x64\Debug\weatherviz\AppX\v8jsi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\userenv.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\profext.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\rasadhlp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\FWPUCLNT.DLL'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\mlang.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Web.Http.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\x64\Microsoft.VisualStudio.DesignTools.UwpTap.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+Windows.UI.Xaml.dll!00007FF93ABA781B: (caller: 00007FF93ABB56A2) ReturnHr(1) tid(ed8) 80070057 The parameter is incorrect.
+Windows.UI.Xaml.dll!00007FF93ABA8ED8: (caller: 00007FF90028766D) ReturnHr(2) tid(ed8) 80070057 The parameter is incorrect.
+Windows.UI.Xaml.dll!00007FF93ABA781B: (caller: 00007FF93ABB56A2) ReturnHr(3) tid(ed8) 80070057 The parameter is incorrect.
+Windows.UI.Xaml.dll!00007FF93ABA8ED8: (caller: 00007FF90028766D) ReturnHr(4) tid(ed8) 80070057 The parameter is incorrect.
+Windows.UI.Xaml.dll!00007FF93ABA781B: (caller: 00007FF93ABB56A2) ReturnHr(5) tid(ed8) 80070057 The parameter is incorrect.
+Windows.UI.Xaml.dll!00007FF93ABA8ED8: (caller: 00007FF90028766D) ReturnHr(6) tid(ed8) 80070057 The parameter is incorrect.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\WindowsCodecs.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\xmllite.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Energy.dll'. 
+ReactNative ['index'] (info): 'Running "weatherviz" with {"initialProps":null,"rootTag":11}'
+ReactNative ['index'] (info): 'App.tsx engine updated:undefined'
+ReactNative ['index'] (info): 'App.tsx scene updated:undefined'
+ReactNative ['index'] (info): 'App.tsx xrExperience updated:undefined'
+ReactNative ['index'] (info): 'App.tsx xrSessionManager updated:undefined'
+ReactNative ['index'] (info): 'App.tsx xrFeatures updated:undefined'
+[UnimplementedProperty] ViewManager = RCTView elementClass = Microsoft.ReactNative.ViewPanel propertyName = collapsable value = true
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\MixedRealityRuntime.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsMixedReality.Runtime_106.2105.21002.0_x64__8wekyb3d8bbwe\x64\WinXrRuntime.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\threadpoolwinrt.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\rometadata.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\WinMetadata\Windows.Perception.winmd'. Module was built without symbols.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\WinMetadata\Windows.UI.winmd'. Module was built without symbols.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (3486): BGFX Init...
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (3493): BGFX Version 1.112.7565 (commit: db54d046e40510069f8cb09c2627cc98c056c31a)
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1691): BGFX Reset back-buffer swap chain:
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1700): BGFX 	1024x768, format: RGBA8, numBackBuffers: 2, maxFrameLatency: 0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1701): BGFX 	[x] MSAAx4
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1702): BGFX 	[ ] Fullscreen
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1703): BGFX 	[x] V-sync
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1704): BGFX 	[x] Max Anisotropy
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1705): BGFX 	[ ] Capture
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1706): BGFX 	[ ] Flush After Render
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1707): BGFX 	[ ] Flip After Render
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1708): BGFX 	[ ] sRGB Back Buffer
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1709): BGFX 	[ ] HDR10
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1710): BGFX 	[ ] Hi-DPI
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1711): BGFX 	[ ] Depth Clamp
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1712): BGFX 	[ ] Suspend
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1879): BGFX Application called bgfx::renderFrame directly, not creating render thread.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1895): BGFX Running in single-threaded mode
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (197): BGFX Adapter #0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (201): BGFX 	Description: Intel(R) UHD Graphics 630
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (207): BGFX 	VendorId: 0x00008086, DeviceId: 0x00003e9b, SubSysId: 0x20051a58, Revision: 0x00000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (212): BGFX 	Memory: 134217728 (video), 0 (system), 8536657920 (shared)
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (251): BGFX 	Output #0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (255): BGFX 		           DeviceName: \\.\DISPLAY1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (261): BGFX 		   DesktopCoordinates: 0, 0, 1920, 1080
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (262): BGFX 		    AttachedToDesktop: 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (263): BGFX 		             Rotation: 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (251): BGFX 	Output #1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (255): BGFX 		           DeviceName: \\.\DISPLAY16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (261): BGFX 		   DesktopCoordinates: 1920, 0, 3286, 768
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (262): BGFX 		    AttachedToDesktop: 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (263): BGFX 		             Rotation: 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (197): BGFX Adapter #1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (201): BGFX 	Description: NVIDIA GeForce RTX 2070 with Max-Q Design
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (207): BGFX 	VendorId: 0x000010de, DeviceId: 0x00001f10, SubSysId: 0x20051a58, Revision: 0x000000a1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (212): BGFX 	Memory: 8421113856 (video), 0 (system), 8536657920 (shared)
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (197): BGFX Adapter #2
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (201): BGFX 	Description: Intel(R) UHD Graphics 630
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (207): BGFX 	VendorId: 0x00008086, DeviceId: 0x00003e9b, SubSysId: 0x20051a58, Revision: 0x00000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (212): BGFX 	Memory: 134217728 (video), 0 (system), 8536657920 (shared)
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (197): BGFX Adapter #3
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (201): BGFX 	Description: Microsoft Basic Render Driver
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (207): BGFX 	VendorId: 0x00001414, DeviceId: 0x0000008c, SubSysId: 0x00000000, Revision: 0x00000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (212): BGFX 	Memory: 0 (video), 0 (system), 8536657920 (shared)
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DXGIDebug.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\d3d11_3SDKLayers.dll'. 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (924): BGFX WARN Direct3D11 device feature level 12.1.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\dxgi.cpp (347): BGFX DXGI device 11.3, hr 0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (412): BGFX Graphics debugger is not present.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format ASTC4x4.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1530): BGFX CheckFeatureSupport failed with HRESULT(80004005) for sRGB format ASTC4x4.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format ASTC5x5.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1530): BGFX CheckFeatureSupport failed with HRESULT(80004005) for sRGB format ASTC5x5.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format ASTC6x6.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1530): BGFX CheckFeatureSupport failed with HRESULT(80004005) for sRGB format ASTC6x6.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format ASTC8x5.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1530): BGFX CheckFeatureSupport failed with HRESULT(80004005) for sRGB format ASTC8x5.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format ASTC8x6.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1530): BGFX CheckFeatureSupport failed with HRESULT(80004005) for sRGB format ASTC8x6.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format ASTC10x5.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1530): BGFX CheckFeatureSupport failed with HRESULT(80004005) for sRGB format ASTC10x5.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (1444): BGFX CheckFeatureSupport failed with HRESULT(80004005) for format R1.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1532): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1536): BGFX Detected GPUs (4):
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1537): BGFX 	 +----------------   Index
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1538): BGFX 	 |  +-------------   Device ID
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1539): BGFX 	 |  |    +--------   Vendor ID
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1549): BGFX 	 0: 3e9b 8086
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1549): BGFX 	 1: 1f10 10de
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1549): BGFX 	 2: 3e9b 8086
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1549): BGFX 	 3: 008c 1414
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1552): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1558): BGFX Supported renderer backends (3):
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1561): BGFX 	 - Noop
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1561): BGFX 	 - Direct3D 11
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1561): BGFX 	 - Direct3D 12
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1564): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1565): BGFX Sort key masks:
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1566): BGFX 	   View     3fc0000000000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1567): BGFX 	   Draw bit 0020000000000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1569): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1570): BGFX 	D  Type     0018000000000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1572): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1573): BGFX 	D0 Blend    0006000000000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1574): BGFX 	D0 Program  0001ff0000000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1575): BGFX 	D0 Depth    000000ffffffff00
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1577): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1578): BGFX 	D1 Depth    0007fffffff80000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1579): BGFX 	D1 Blend    0000000000060000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1580): BGFX 	D1 Program  000000000001ff00
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1582): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1583): BGFX 	D2 Seq      0007ffff80000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1584): BGFX 	D2 Blend    0000000060000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1585): BGFX 	D2 Program  000000001ff00000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1587): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1588): BGFX 	 C Seq      001ffffe00000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1589): BGFX 	 C Program  00000001ff000000
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1591): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1596): BGFX Capabilities (renderer Direct3D 11, vendor 0x8086, device 0x3e9b):
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_ALPHA_TO_COVERAGE
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_BLEND_INDEPENDENT
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_COMPUTE
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_CONSERVATIVE_RASTER
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_DRAW_INDIRECT
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_FRAGMENT_DEPTH
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[ ] BGFX_CAPS_FRAGMENT_ORDERING
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[ ] BGFX_CAPS_GRAPHICS_DEBUGGER
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[ ] BGFX_CAPS_HDR10
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[ ] BGFX_CAPS_HIDPI
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_INDEX32
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_INSTANCING
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_OCCLUSION_QUERY
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[ ] BGFX_CAPS_RENDERER_MULTITHREADED
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_SWAP_CHAIN
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_2D_ARRAY
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_3D
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_BLIT
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_COMPARE_ALL
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_COMPARE_LEQUAL
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_CUBE_ARRAY
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[ ] BGFX_CAPS_TEXTURE_DIRECT_ACCESS
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_TEXTURE_READ_BACK
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_VERTEX_ATTRIB_HALF
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_VERTEX_ATTRIB_UINT10
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_VERTEX_ATTRIB_INT8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_VERTEX_ATTRIB_UINT16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1602): BGFX 	[x] BGFX_CAPS_VERTEX_ID
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1606): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1607): BGFX Limits:
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1609): BGFX 	maxDrawCalls                 65535
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1610): BGFX 	maxBlits                      1024
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1611): BGFX 	maxTextureSize               16384
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1612): BGFX 	maxTextureLayers              2048
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1613): BGFX 	maxViews                       256
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1614): BGFX 	maxFrameBuffers                128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1615): BGFX 	maxFBAttachments                 8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1616): BGFX 	maxPrograms                    512
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1617): BGFX 	maxShaders                     512
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1618): BGFX 	maxTextures                   4096
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1619): BGFX 	maxTextureSamplers              16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1620): BGFX 	maxComputeBindings              16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1621): BGFX 	maxVertexLayouts                64
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1622): BGFX 	maxVertexStreams                32
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1623): BGFX 	maxIndexBuffers               4096
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1624): BGFX 	maxVertexBuffers              4096
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1625): BGFX 	maxDynamicIndexBuffers        4096
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1626): BGFX 	maxDynamicVertexBuffers       4096
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1627): BGFX 	maxUniforms                    512
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1628): BGFX 	maxOcclusionQueries            256
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1629): BGFX 	maxEncoders                      8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1630): BGFX 	minResourceCbSize            65536
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1631): BGFX 	transientVbSize            6291456
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1632): BGFX 	transientIbSize            2097152
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1635): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1636): BGFX Supported texture formats:
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1637): BGFX 	 +----------------   2D: x = supported / * = emulated
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1638): BGFX 	 |+---------------   2D: sRGB format
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1639): BGFX 	 ||+--------------   3D: x = supported / * = emulated
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1640): BGFX 	 |||+-------------   3D: sRGB format
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1641): BGFX 	 ||||+------------ Cube: x = supported / * = emulated
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1642): BGFX 	 |||||+----------- Cube: sRGB format
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1643): BGFX 	 ||||||+---------- vertex format
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1644): BGFX 	 |||||||+--------- image: i = read-write / r = read / w = write
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1645): BGFX 	 ||||||||+-------- framebuffer
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1646): BGFX 	 |||||||||+------- MSAA framebuffer
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1647): BGFX 	 ||||||||||+------ MSAA texture
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1648): BGFX 	 |||||||||||+----- Auto-generated mips
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1649): BGFX 	 ||||||||||||  +-- name
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxl      ] BC1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxl      ] BC2
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxl      ] BC3
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x       ] BC4
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x       ] BC5
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x       ] BC6H
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxl      ] BC7
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ETC1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ETC2
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ETC2A
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ETC2A1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] PTC12
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] PTC14
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] PTC12A
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] PTC14A
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] PTC22
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] PTC24
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ATC
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ATCE
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ATCI
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ASTC4x4
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ASTC5x5
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ASTC6x6
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ASTC8x5
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ASTC8x6
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] ASTC10x5
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[            ] R1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x  wf+mM] A8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+mM] R8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] R8I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] R8U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] R8S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] R16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] R16I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] R16U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+mM] R16F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] R16S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] R32I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] R32U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+mM] R32F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+m ] RG8I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+m ] RG8U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG8S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+m ] RG16I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+m ] RG16U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG16F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG16S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+m ] RG32I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+m ] RG32U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG32F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] RGB8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] RGB8I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] RGB8U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[* * *       ] RGB8S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x       ] RGB9E5
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxlvif+mM] BGRA8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxlvif+mM] RGBA8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxlvif+m ] RGBA8I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[xlxlxlvif+m ] RGBA8U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RGBA8S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RGBA16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] RGBA16I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] RGBA16U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+mM] RGBA16F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RGBA16S
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] RGBA32I
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+m ] RGBA32U
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vif+mM] RGBA32F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x   f+mM] R5G6B5
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x   f+mM] RGBA4
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x   f+mM] RGB5A1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RGB10A2
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x x x vwf+mM] RG11B10F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D24
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D24S8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D32
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D16F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D24F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D32F
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1671): BGFX 	[x   x   f+  ] D0S8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1676): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1680): BGFX NDC depth [0, 1], origin top left.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (1682): BGFX 
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx_p.h (4725): BGFX Creating uniform (handle   0) bgfx_clear_depth
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx_p.h (4725): BGFX Creating uniform (handle   1) bgfx_clear_color
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4424): BGFX Texture   0: R8 (requested: R8), layers 1, 2048x24.
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Vertex Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	predefined: u_modelViewProj (mat4), num  0, r.index   0, r.count  4
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 64
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (530): BGFX VertexLayout 8c4776f8 (f9b66fc2), stride 28
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (550): BGFX 	attr  0: Attrib::Position     num 3, type 6, norm [ ], asint [ ], offset  0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (550): BGFX 	attr  4: Attrib::Color0       num 4, type 1, norm [x], asint [ ], offset 12
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (550): BGFX 	attr  5: Attrib::Color1       num 4, type 1, norm [x], asint [ ], offset 16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (550): BGFX 	attr 10: Attrib::TexCoord0    num 2, type 6, norm [ ], asint [ ], offset 20
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Vertex Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_depth (vec4), num  0, r.index   0, r.count  1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 16
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4119): BGFX Fragment Shader consts 1
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4191): BGFX 	user: bgfx_clear_color (vec4), num  8, r.index   0, r.count  8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\renderer_d3d11.cpp (4286): BGFX 	CB size: 128
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (530): BGFX VertexLayout d840a435 (e323622d), stride 8
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (550): BGFX 	attr  0: Attrib::Position     num 2, type 6, norm [ ], asint [ ], offset  0
+D:\a\BabylonReactNative\BabylonReactNative\Modules\@babylonjs\react-native\submodules\BabylonNative\Dependencies\bgfx.cmake\bgfx\src\bgfx.cpp (3500): BGFX Init complete.
+ReactNative ['index'] (info): 'BJS - [10:59:41]: Babylon Native (v5.0.0-alpha.30) launched'
+ReactNative ['index'] (info): 'App.tsx scene created'
+ReactNative ['index'] (info): 'App.tsx engine updated:[object Object]'
+ReactNative ['index'] (info): 'App.tsx scene updated:[object Object]'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dpapi.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\rsaenh.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Perception.Stub.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Mirage.dll'. 
+The thread 0x78a8 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\WinMetadata\Windows.Graphics.winmd'. Module was built without symbols.
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\d3d10warp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\D3D12Core.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvldumdx.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\cryptnet.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\imagehlp.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvwgf2umx.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\NvCamera\NvCameraAllowlisting64.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\NvCamera\NvCameraAllowlisting64.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\nvspcap64.dll'. 
+The thread 0x7f8 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dxilconv.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\D3DSCache.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\dxilconv.dll'
+The thread 0x1864 has exited with code 0 (0x0).
+The thread 0x7fb0 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvwgf2umx.dll'
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvldumdx.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvldumdx.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\nvwgf2umx.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\NvCamera\NvCameraAllowlisting64.dll'. 
+The thread 0x6dc0 has exited with code 0 (0x0).
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\NvCamera\NvCameraAllowlisting64.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\dxilconv.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\dxilconv.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\NvCamera\NvCameraAllowlisting64.dll'. 
+'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\nvrzsi.inf_amd64_d5c6f34ce808df3f\NvCamera\NvCameraAllowlisting64.dll'
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\Windows.Gaming.Input.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Program Files\WindowsApps\Microsoft.WindowsMixedReality.Runtime_106.2105.21002.0_x64__8wekyb3d8bbwe\x64\WinXrHolographicInputExtensions.dll'. 
+'weatherviz.exe' (Win32): Loaded 'C:\Windows\System32\PerceptionDevice.dll'. 
+Exception thrown at 0x00007FF9535D4ED9 in weatherviz.exe: Microsoft C++ exception: _com_error at memory location 0x00000073BCAFB598.
+Exception thrown at 0x00007FF9535D4ED9 in weatherviz.exe: Microsoft C++ exception: _com_error at memory location 0x00000073BCAFC270.
+Exception thrown at 0x00007FF9535D4ED9 (KernelBase.dll) in weatherviz.exe: WinRT originate error - 0x80070057 : 'The parameter is incorrect.'.
+Exception thrown at 0x00007FF9535D4ED9 in weatherviz.exe: Microsoft C++ exception: winrt::hresult_invalid_argument at memory location 0x00000073BCAFC410.
+onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!00007FF9431A974A: (caller: 00007FF9431AD528) ReturnHr(1) tid(383c) 8685C003 onecoreuap\xbox\devices\api\winrt\pnpapiwrapper.cpp(385)\Windows.Gaming.Input.dll!00007FF9431A974A: (caller: 00007FF9431AD528) ReturnHr(2) tid(383c) 8685C003 'weatherviz.exe' (Win32): Unloaded 'C:\Windows\System32\PerceptionDevice.dll'
+'weatherviz.exe' (Win32): Unloaded 'C:\Program Files\WindowsApps\Microsoft.WindowsMixedReality.Runtime_106.2105.21002.0_x64__8wekyb3d8bbwe\x64\WinXrHolographicInputExtensions.dll'
+The thread 0x5e14 has exited with code 0 (0x0).
+The thread 0x3f10 has exited with code 0 (0x0).
+Exception thrown at 0x00007FF9535D4ED9 (KernelBase.dll) in weatherviz.exe: WinRT originate error - 0x80072EFD : 'A connection with the server could not be established'.
+The thread 0x6958 has exited with code 0 (0x0).
+The thread 0x6ea8 has exited with code 0 (0x0).
+The thread 0x10b8 has exited with code 0 (0x0).
+The thread 0x5c50 has exited with code 0 (0x0).
+The thread 0x2f14 has exited with code 0 (0x0).
+The thread 0x7ee4 has exited with code 0 (0x0).
+The thread 0x3998 has exited with code 0 (0x0).
+The thread 0x754c has exited with code 0 (0x0).
+The thread 0x55e4 has exited with code 0 (0x0).
+The thread 0x788c has exited with code 0 (0x0).
+The thread 0x7a40 has exited with code 0 (0x0).
+The thread 0x56d8 has exited with code 0 (0x0).
+The thread 0x2c40 has exited with code 0 (0x0).
+The thread 0x38ec has exited with code 0 (0x0).
